@@ -2,7 +2,7 @@
 /**
 	*main- entry point
 	*
-	*Return: Always 0 (Success/Correct)
+	*Return: Always 0 (Success/correct)
 	*/
 int main(void)
 
@@ -12,10 +12,10 @@ int main(void)
 for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 {
 if (alphabet == 'q')
-	continue;
+continue;
 
 else if (alphabet == 'e')
-	continue ;
+continue;
 
 	putchar(alphabet);
 }
