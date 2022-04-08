@@ -20,6 +20,6 @@ else if (alphabet == 'e')
 	putchar(alphabet);
 }
 
-	putchar('\n');
+	putchar("\n");
 	return (0);
 }
