@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-	*print-sign- return 0 not lowercase, 1 letter lowercase
+	*print_sign- return 0 not lowercase, 1 letter lowercase
 	*
 	*@n: int to be printed
 	*Return: Always 0
@@ -15,8 +15,8 @@ if (n > 0)
 }
 else if (n == 0)
 {
-		_putchar ('0');
-		return (0);
+_putchar ('0');
+return (0);
 }
 else
 {
