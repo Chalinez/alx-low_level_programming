@@ -21,6 +21,5 @@ for (alphabet = 'a' ; alphabet <= 'z'; alphabet++)
 	count++;
 	_putchar('\n');
 }
-
 	
 }
