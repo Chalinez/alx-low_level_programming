@@ -14,8 +14,9 @@ printf("Infinite loop incoming :(\n");
 /*
 	*while (i < 10)
 	*{
+	*Infinite loop - no increase of variable
 	*	putchar(i);
-	*}
+ 	}
 	*/
 	
 printf("Infinite loop avoided! \\o/\n");
