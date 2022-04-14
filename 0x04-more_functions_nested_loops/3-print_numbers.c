@@ -3,10 +3,10 @@
 	*print_numbers - prints numbers
  	*Return: always 0
 	*/
-
 void print_numbers(void)
 {
 	int i;
+	
 	i = 0;
 while (i < 10)
 {
